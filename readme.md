@@ -1,2 +1,2 @@
 files
-added
+added from bug 2
